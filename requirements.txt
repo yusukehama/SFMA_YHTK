@@ -1,0 +1,5 @@
+- Python >= 3.12.7
+- PyTorch >= 2.4.1
+- dwave-ocean-sdk >= 8.1.0
+- numpy >= 1.26.4
+- matplotlib >= 3.9.2
