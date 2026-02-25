@@ -1,4 +1,4 @@
-# Subsampling Factorzation Machine Annealing (SFMA)
+# Subsampling Factorization Machine Annealing (SFMA)
 
 This repository contains a series of files for performing computations for the algorithms described in this paper. It is presented to demonstrate the reproducibility of our research and share our results and insights with the broader community. We hope that it is useful for related works and serves as a foundation for future extensions.   
 
@@ -228,6 +228,8 @@ To reproduce the results, follow the steps below in order:
     
 14. Execution of the extended RS – Execute "input_extended_RS.ipynb". The parameters num_N, nrep_it, nrep_it_ext, n_samp, and num_W should be set to the same values used in "input_extended_SA_standard.ipynb".
 
+The data files used in this study are saved at Zenodo and can be accessed via the following DOI: https://doi.org/10.5281/zenodo.17960406  
+
 ## LICENSE
 This project is licensed under the Apache License 2.0.  
 See the LICENSE file for details.
@@ -238,7 +240,7 @@ This code accompanies the paper:
 Paper Title: Subsampling Factorization Machine Annealing  
 Author(s): Yusuke Hama and Tadashi Kadowaki 
 Journal Name: Physical Review Research  
-Year: (to be added after publication)   
-DOI: (to be added after publication)
-
-Once the paper is published, the DOI and citation information will be updated here.
+Volume: 8
+Pages: 013187
+Year: 2026   
+DOI: https://doi.org/10.1103/qgpq-6dmr
